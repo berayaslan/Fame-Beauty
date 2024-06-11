@@ -1,2 +1,3 @@
 # Fame-Beauty
 While there are many cosmetic e-commerce sites in our country, there is not yet a site where only world famous women's brands are available. In order to close this deficiency, Fame Beauty, a web-based e-commerce site, will easily filter users on this issue. It will provide easy access for users to cosmetic brands founded by famous women on a global scale at a single address. This project prepared with html, css and bootstrap languages. Designed with css and wrote the codes with html.
+![fame](https://github.com/berayaslan/Fame-Beauty/assets/108027930/e17ae7f4-069d-4bb7-ae51-36a1948fd2c2)
